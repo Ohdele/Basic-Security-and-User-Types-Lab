@@ -18,3 +18,9 @@ Demonstrating foundational Linux system security, user type identification, and 
 * **Findings:**
     * The `/etc/group` file lists groups and their members (Field 4).
     * The `id` command confirms the user `dele` has UID **1000** and belongs to key groups like **sudo** (granting root access).
+## Task 4: Auditing User Logins
+* **Objective:** Audit current and historical user sessions using `who`, `w`, and `last` commands.
+* **Findings:**
+    * The `who` command shows current active sessions.
+    * The `w` command shows active sessions and their current process activity.
+    * The `last` command audits past logins/shutdowns; using `last $USER` focuses the audit on the user `dele`, showing login times and session terminations (e.g., `down`, `crash`).
