@@ -1,0 +1,91 @@
+dele     tty2         2025-11-08 19:01 (tty2)
+---
+ 07:50:18 up  6:35,  1 user,  load average: 0.17, 0.08, 0.01
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+dele     tty2     tty2             Sat19   12:49m  0.03s  0.03s /usr/libexec/gnome-session-binary --session=ubuntu
+---
+dele     tty2         tty2             Sat Nov  8 19:01    gone - no logout
+reboot   system boot  6.8.0-87-generic Sat Nov  8 19:00   still running
+dele     tty3                          Sat Nov  8 18:44 - crash  (00:15)
+dele     tty2         tty2             Sat Nov  8 18:43 - crash  (00:16)
+reboot   system boot  6.8.0-87-generic Sat Nov  8 18:43   still running
+dele     tty3                          Sat Nov  8 18:38 - crash  (00:05)
+dele     tty2         tty2             Sat Nov  8 18:26 - crash  (00:16)
+reboot   system boot  6.8.0-87-generic Sat Nov  8 18:26   still running
+dele     tty2         tty2             Sat Nov  8 18:16 - crash  (00:09)
+reboot   system boot  6.8.0-87-generic Sat Nov  8 18:15   still running
+dele     tty2         tty2             Thu Nov  6 20:21 - crash (1+21:54)
+reboot   system boot  6.8.0-87-generic Thu Nov  6 20:20   still running
+dele     tty2         tty2             Thu Nov  6 19:55 - down   (00:01)
+reboot   system boot  6.8.0-87-generic Thu Nov  6 19:54 - 19:57  (00:02)
+dele     tty2         tty2             Thu Nov  6 19:51 - down   (00:03)
+reboot   system boot  6.8.0-87-generic Thu Nov  6 19:50 - 19:54  (00:03)
+reboot   system boot  6.8.0-87-generic Thu Nov  6 19:48 - 19:54  (00:05)
+dele     tty2         tty2             Thu Nov  6 19:18 - down   (00:14)
+reboot   system boot  6.8.0-87-generic Thu Nov  6 19:18 - 19:33  (00:15)
+dele     tty2         tty2             Thu Nov  6 19:05 - down   (00:08)
+reboot   system boot  6.8.0-87-generic Thu Nov  6 19:04 - 19:13  (00:09)
+dele     tty2         tty2             Thu Nov  6 12:58 - down   (02:00)
+reboot   system boot  6.8.0-87-generic Thu Nov  6 12:51 - 14:58  (02:07)
+dele     tty2         tty2             Wed Nov  5 18:21 - crash  (18:29)
+reboot   system boot  6.8.0-87-generic Wed Nov  5 18:21 - 14:58  (20:37)
+dele     tty2         tty2             Wed Nov  5 04:33 - crash  (13:48)
+reboot   system boot  6.8.0-87-generic Wed Nov  5 04:32 - 14:58 (1+10:25)
+dele     tty2         tty2             Tue Nov  4 08:49 - crash  (19:43)
+reboot   system boot  6.8.0-87-generic Tue Nov  4 08:48 - 14:58 (2+06:10)
+dele     tty2         tty2             Tue Nov  4 07:11 - crash  (01:37)
+reboot   system boot  6.8.0-87-generic Tue Nov  4 07:10 - 14:58 (2+07:48)
+dele     tty2         tty2             Tue Nov  4 04:40 - crash  (02:30)
+reboot   system boot  6.8.0-87-generic Tue Nov  4 04:39 - 14:58 (2+10:18)
+dele     tty2         tty2             Tue Nov  4 00:20 - crash  (04:18)
+reboot   system boot  6.8.0-87-generic Tue Nov  4 00:20 - 14:58 (2+14:38)
+dele     tty2         tty2             Mon Nov  3 22:35 - down   (01:44)
+reboot   system boot  6.8.0-87-generic Mon Nov  3 22:34 - 00:20  (01:45)
+dele     tty2         tty2             Mon Nov  3 21:42 - crash  (00:52)
+reboot   system boot  6.8.0-87-generic Mon Nov  3 21:41 - 00:20  (02:38)
+dele     tty2         tty2             Mon Nov  3 21:21 - crash  (00:20)
+reboot   system boot  6.8.0-87-generic Mon Nov  3 21:20 - 00:20  (02:59)
+dele     tty2         tty2             Mon Nov  3 18:11 - down   (03:09)
+reboot   system boot  6.8.0-87-generic Mon Nov  3 18:10 - 21:20  (03:10)
+dele     tty2         tty2             Mon Nov  3 18:02 - down   (00:08)
+reboot   system boot  6.8.0-87-generic Mon Nov  3 18:01 - 18:10  (00:08)
+dele     tty2         tty2             Mon Nov  3 17:53 - down   (00:08)
+reboot   system boot  6.8.0-87-generic Mon Nov  3 17:52 - 18:01  (00:08)
+dele     tty2         tty2             Mon Nov  3 17:28 - down   (00:24)
+reboot   system boot  6.8.0-87-generic Mon Nov  3 17:28 - 17:52  (00:24)
+dele     tty2         tty2             Mon Nov  3 17:13 - down   (00:14)
+reboot   system boot  6.8.0-87-generic Mon Nov  3 17:13 - 17:28  (00:15)
+dele     tty2         tty2             Mon Nov  3 17:07 - crash  (00:05)
+reboot   system boot  6.8.0-87-generic Mon Nov  3 17:05 - 17:28  (00:23)
+
+wtmp begins Mon Nov  3 17:05:10 2025
+---
+dele     tty2         tty2             Sat Nov  8 19:01    gone - no logout
+dele     tty3                          Sat Nov  8 18:44 - crash  (00:15)
+dele     tty2         tty2             Sat Nov  8 18:43 - crash  (00:16)
+dele     tty3                          Sat Nov  8 18:38 - crash  (00:05)
+dele     tty2         tty2             Sat Nov  8 18:26 - crash  (00:16)
+dele     tty2         tty2             Sat Nov  8 18:16 - crash  (00:09)
+dele     tty2         tty2             Thu Nov  6 20:21 - crash (1+21:54)
+dele     tty2         tty2             Thu Nov  6 19:55 - down   (00:01)
+dele     tty2         tty2             Thu Nov  6 19:51 - down   (00:03)
+dele     tty2         tty2             Thu Nov  6 19:18 - down   (00:14)
+dele     tty2         tty2             Thu Nov  6 19:05 - down   (00:08)
+dele     tty2         tty2             Thu Nov  6 12:58 - down   (02:00)
+dele     tty2         tty2             Wed Nov  5 18:21 - crash  (18:29)
+dele     tty2         tty2             Wed Nov  5 04:33 - crash  (13:48)
+dele     tty2         tty2             Tue Nov  4 08:49 - crash  (19:43)
+dele     tty2         tty2             Tue Nov  4 07:11 - crash  (01:37)
+dele     tty2         tty2             Tue Nov  4 04:40 - crash  (02:30)
+dele     tty2         tty2             Tue Nov  4 00:20 - crash  (04:18)
+dele     tty2         tty2             Mon Nov  3 22:35 - down   (01:44)
+dele     tty2         tty2             Mon Nov  3 21:42 - crash  (00:52)
+dele     tty2         tty2             Mon Nov  3 21:21 - crash  (00:20)
+dele     tty2         tty2             Mon Nov  3 18:11 - down   (03:09)
+dele     tty2         tty2             Mon Nov  3 18:02 - down   (00:08)
+dele     tty2         tty2             Mon Nov  3 17:53 - down   (00:08)
+dele     tty2         tty2             Mon Nov  3 17:28 - down   (00:24)
+dele     tty2         tty2             Mon Nov  3 17:13 - down   (00:14)
+dele     tty2         tty2             Mon Nov  3 17:07 - crash  (00:05)
+
+wtmp begins Mon Nov  3 17:05:10 2025
